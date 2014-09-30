@@ -1,0 +1,2 @@
+target:
+	clang++ calculator.cpp
